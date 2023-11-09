@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[curriculum vitae](CV_231110.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[curriculum vitae](CV_231110.pdf)
+
