@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## About me
- Currently, I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko). My research interests are: continual learning, representaion learning,causality/causal inference.
+Currently, I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko). Before becoming a research assistant, I finsihed my Masters's degree under under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko) in the department of Aritificial Intelligent, Chung-Ang University. 
 
 
-A data-driven personal website
+Research Interests
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
