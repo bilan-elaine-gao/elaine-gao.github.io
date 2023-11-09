@@ -33,8 +33,6 @@ Publications
 
 Academic services
 ======
-Reviewer
-------
 - International Conferences: ICPR(2022), AISTATS(2023,2024), BVMC(2023)
 - International journals: IEEE Access(2022), IEEE TNNLS(2023-Current)
 
