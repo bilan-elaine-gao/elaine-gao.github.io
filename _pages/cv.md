@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV](CV-231110.pdf)
+[My CV](_pages/CV-231110.pdf)
 
