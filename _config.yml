@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bilan "Elaine" Gao"
+  name             : "Bilan 'Elaine' Gao"
   avatar           : "profile_img.png"
   bio              : "Research Assistant, Chung-Ang Univerisity"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "bilan2020@cau.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
