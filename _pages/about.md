@@ -24,3 +24,22 @@ News
 ======
 &nbsp; - 2023.06: Became research assistant in Intelligent Information Processing Lab at Chung-Ang University<br>
 &nbsp; - 2023.04: One paper accepted at **ICLR 2023 tiny paper track**
+
+Publications
+======
+- Towards Robust Feature Learning with t-vFM Similarity for Continual Learning [[Paper](http://arxiv.org/abs/2306.02335)]<br>
+***Bilan Gao***, *YoungBin Kim*,ICLR 2023 tiny paper track
+
+
+Academic services
+======
+Reviewer
+--------
+- International Conferences: ICPR(2022), AISTATS(2023,2024), BVMC(2023)
+- International journals: IEEE Access(2022), IEEE TNNLS(2023-Current)
+
+Education
+=======
+M.Sc AI-Application, Chung-Ang University(2023.2)
+
+B.Sc International Logistics, Chung-Ang University(2021.2)
