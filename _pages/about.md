@@ -11,7 +11,7 @@ redirect_from:
 I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko) at Chung-Ang University.
 
 
-## Research Interests
+Research Interests
 ======
 My passion for research has always revolved around representation learning. In pursuit of a more human-like feature learning model, I aspire to dive deeper into understanding and harnessing causal relationships to create more robust and insightful deep learning model. Under this mission, my current research interests are as follows:
 
@@ -20,7 +20,7 @@ My passion for research has always revolved around representation learning. In p
 - Continual causal representation learning: How to continuously learn causal relations?
 
 
-## News
+News
 ======
 &nbsp; - 2023.06: Became research assistant in Intelligent Information Processing Lab at Chung-Ang University<br>
 &nbsp; - 2023.04: One paper accepted at **ICLR 2023 tiny paper track**
