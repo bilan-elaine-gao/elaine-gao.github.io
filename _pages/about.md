@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko) at Chung-Ang University. Currently, I am looking for PhD supervisor in Causality for the year 2024 or 2025. [CV](CV-231110.pdf)
+I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko) at Chung-Ang University. Currently, I am looking for PhD supervisor in Causality for the year 2024 or 2025. [My CV](CV-231110.pdf)
 
 
 Research Interests
