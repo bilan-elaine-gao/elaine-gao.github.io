@@ -40,6 +40,6 @@ Reviewer
 
 Education
 =======
-M.Sc AI-Application, Chung-Ang University(2023.2)
+M.Sc Artifical Intelligence, Chung-Ang University(2023.2)
 
 B.Sc International Logistics, Chung-Ang University(2021.2)
