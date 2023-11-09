@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV](elaine-gao.github.io/assets/CV-231110.pdf)
+[My CV](CV-231110.pdf)
 
