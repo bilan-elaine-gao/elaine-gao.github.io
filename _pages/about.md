@@ -18,7 +18,7 @@ Research Interests
 My passion for research has always revolved around representation learning. In pursuit of a more human-like feature learning model, I aspire to dive deeper into understanding and harnessing causal relationships to create more robust and insightful deep learning model. Under this mission, my current research interests are as follows:
 
 - Learning to learn causal relation: How to learn causal relations among various data under distribution shifts?
-- Model-Agnostic causal representation learning: How to design a generic learning algorthim for robust causal representation learning? 
+- Model/Task-Agnostic causal representation learning: How to design a generic learning algorthim for robust causal representation learning? 
 - Continual causal representation learning: How to continuously learn causal relations?
 
 
