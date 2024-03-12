@@ -10,16 +10,15 @@ redirect_from:
 
 
 
-I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko) at Chung-Ang University. Currently, I am looking for PhD supervisor in Causality for the year 2024 or 2025.
+I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko) at Chung-Ang University. Currently, I am looking for PhD opportunity in causality, causal inference, reasoning for the year 2025.
 
 
 Research Interests
 ======
 My passion for research has always revolved around representation learning. In pursuit of a more human-like feature learning model, I aspire to dive deeper into understanding and harnessing causal relationships to create more robust and insightful deep learning model. Under this mission, my current research interests are as follows:
 
-- Learning to learn causal relation: How to learn causal relations among various data under distribution shifts? How to maintain performance when ood method apply to an IID setting from a causal representation perspective?
-- Model/Task-Agnostic causal representation learning: How to design a generic learning algorthim for robust causal representation learning? 
-- Continual causal representation learning: How to continuously learn causal relations?
+- Learning better representation through causal relation: How to learn causal relations among various data under distribution shifts? How to maintain performance when ood method apply to an IID setting from a causal representation perspective?
+- Model/Task-Agnostic causal learning algorithm: How to design a generic learning algorthim for robust causal representation learning? 
 
 
 News
